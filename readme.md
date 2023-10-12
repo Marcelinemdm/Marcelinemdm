@@ -18,5 +18,5 @@
 
 ## 🤝 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](seu_link_do_linkedin)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://br.linkedin.com/in/seusomelier)
 [![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=protonmail)](mailto:chemicalscan@proton.me)
