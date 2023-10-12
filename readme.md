@@ -1,15 +1,22 @@
-## Olá! 👋 Eu sou Luiz Fernando
+# Olá! 👋 Eu sou Luiz Fernando
 
-🍷 Apaixonado por vinhos, compartilho meu conhecimento no [@seusomelier2](https://twitter.com/seusomelier2) no Twitter.
+🔍 Sobre mim:
 
-## 🔍 Sobre mim:
+- 🎓 Atualmente Estou estudando.
+- 🛠 Minhas principais tecnologias são: JavaScript e Python.
+- 🌱 Atualmente estou aprendendo React.
+- 📫 Como entrar em contato comigo: [chemicalscan@proton.me](mailto:chemicalscan@proton.me).
 
-- 🌍 Você pode encontrar todos os meus links e contatos em [Linktree - seusomelier](https://linktr.ee/seusomelier).
-- 💬 Pergunte-me sobre vinhos, degustações e harmonizações.
-- 📫 Entre em contato comigo através do [Twitter](https://twitter.com/seusomelier2).
+## 📊 Estatísticas do GitHub
 
-## 🤝 Conecte-se comigo:
+![Marcelinemdm's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcelinemdm&show_icons=true&theme=radical)
 
-[![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=twitter)](https://twitter.com/seusomelier2)
-[![Linktree](https://img.shields.io/badge/-Linktree-black?style=flat-square&logo=linktree)](https://linktr.ee/seusomelier)
+## 🛠 Tecnologias e Ferramentas
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+
+## 🤝 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](seu_link_do_linkedin)
+[![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=protonmail)](mailto:chemicalscan@proton.me)
