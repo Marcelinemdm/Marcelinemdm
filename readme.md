@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou Luiz Fernando
+## Olá! 👋 Eu sou Luiz Fernando
 
 🍷 Apaixonado por vinhos, compartilho meu conhecimento no [@seusomelier2](https://twitter.com/seusomelier2) no Twitter.
 
