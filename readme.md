@@ -1,11 +1,15 @@
 # Olá! 👋 Eu sou Luiz Fernando
 
-🔍 Sobre mim:
+🔍 **Sobre mim:**
 
 - 🎓 Atualmente Estou estudando.
 - 🛠 Minhas principais tecnologias são: JavaScript e Python.
 - 🌱 Atualmente estou aprendendo React.
 - 📫 Como entrar em contato comigo: [chemicalscan@proton.me](mailto:chemicalscan@proton.me).
+
+## 🎵 Música Favorita 🎵
+
+Clique [aqui](https://youtu.be/p9pf5EyOgcs?si=RrKGlsPi58xujMf6) para ouvir minha música favorita enquanto navega pelo meu perfil!
 
 ## 📊 Estatísticas do GitHub
 
