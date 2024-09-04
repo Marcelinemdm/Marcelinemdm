@@ -11,9 +11,5 @@
 ## 📁 Tecnologias e Ferramentas
 - 🔧 **/tecnologias_ferramentas**:
   - ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-  - - ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+  - ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
   - ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-
-## 📁 Conecte-se Comigo
-- 🤝 **/redes_sociais**:
-  - [![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=protonmail)](mailto:dev@seusomelier.com.br)
